@@ -1,0 +1,191 @@
+* {
+    font-family: monospace;
+    
+}
+
+hr{
+    margin-top: 0px;
+    border-color:aqua;
+    box-shadow: 3px 3px #0c2d48;
+}
+
+
+/*  ========   \/  TEXTO  \/    ========  */
+
+
+h1{
+
+    margin-bottom:20px;
+    background-color: rgba(59, 164, 196, 0.274);
+    border-radius: 10px;
+    padding-top:10px;
+    margin-top: 0px;
+    height:50px;
+}
+
+h2{
+    color: #0c2d48;
+    margin-bottom:0px;
+    text-align:left;
+}
+
+h3{
+    color: #0c2d48;
+    margin-bottom:0px;
+    text-align:left;
+}
+
+h4{ 
+    color: black;
+    margin-bottom: 0px;
+}
+p{
+    margin-top: 0;
+
+}
+
+/*  ========   /\  TEXTO  /\    ========  */
+
+
+/*  ========   \/  BASE  \/   ========  */
+
+.base{
+
+    
+
+    background-color:#fff;
+    padding: 30px;
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    border: solid 2px rgba(59, 164, 196, 0.911);
+    border-radius:5px;
+    box-shadow: 0 0 10px rgba(59, 164, 196, 0.911);
+    
+
+}
+
+.caixa{
+    
+    clear: both;
+    
+}
+.dados{
+    color:#2e8bc0;
+    
+}
+
+.itens{
+    font-weight: bold;
+    color: #0c2d48da;
+    float: left;
+    
+}
+
+.circle{
+    background-color:#0c2d48;
+    width: 10px;
+    height: 10px;
+    border-radius:50%;
+    float:right;
+    margin-left: 10px;
+}
+/*  ========   /\  BASE  /\    ========  */
+
+
+/*  ========   \/  IMAGEM   \/   ========  */
+
+#foto{
+    width: 30%;
+    float: left;
+}
+
+#img{
+    max-width: 90%;
+    max-height: 100%;
+    border-radius: 20%;
+}
+
+/*  ========   /\  IMAGEM   /\   ========  */
+
+
+/*  ========   \/  ASSUNTO  \/    ========  */
+
+#contato{
+    vertical-align: middle;
+    width: 68%;
+    float: left;
+    font-size: 18px;
+    text-align:left;
+
+}
+
+#objetivos{
+    margin: 2%;
+    text-align: justify;
+}
+
+#formacao{
+    margin: 2%;
+    text-align:left;
+    
+}
+
+/*  ========  /\   ASSUNTO  /\    ========  */
+
+
+/*  ========   /\/  COLUNAS  \/    ========  */
+
+#coluna1{
+    float: left;
+    width:45%;
+    margin-right: 2%;
+    margin-left: 2%;
+    text-align:left;
+    
+}
+
+#coluna2{
+
+    float: left;
+    background-color: #0c2d4898;
+    width: 2px;
+    height: 400px;
+    
+
+}
+
+#coluna3{
+    width: 45%;
+    float: left;
+    text-align:left;
+    margin-left: 2%;
+    margin-right:2%;
+    font-size:17px;
+    
+}
+
+/*  ========   /\ COLUNAS  /\   ========  */
+
+
+
+/*  ========   \/  LINKS  \/    ========  */
+
+
+#githref{
+    color: #0c2d48da;
+    font-weight: bold;
+    text-decoration: none;
+    align-items: center;
+}
+
+#githref:hover{
+    font-weight: bolder;
+    color:rgb(243, 0, 0);
+    
+}
+a:visited{
+    color:rgb(47, 132, 108);
+}
+
+/*  ========   /\  LINKS   /\      ========  */
